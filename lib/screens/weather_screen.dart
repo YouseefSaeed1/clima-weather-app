@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'functions/weather.dart';
+import '../functions/weather.dart';
 import 'weather_by_name_screen.dart';
 
 class WeatherScreen extends StatefulWidget {

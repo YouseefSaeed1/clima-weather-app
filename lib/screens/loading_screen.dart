@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app/weather_screen.dart';
-import 'functions/weather.dart';
+import 'package:weather_app/screens/weather_screen.dart';
+import '../functions/weather.dart';
 
 class LoadingScreen extends StatefulWidget {
   const LoadingScreen({super.key});
