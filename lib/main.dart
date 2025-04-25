@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:weather_app/weather_screen.dart';
 
 import 'loading_screen.dart';
 
